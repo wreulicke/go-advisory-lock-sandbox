@@ -1,0 +1,1 @@
+CREATE TABLE greetings(id varchar(36) PRIMARY KEY, message TEXT, created_at timestamp);
